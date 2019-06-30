@@ -1,0 +1,14 @@
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\bin\Debug\netcoreapp2.2\RoomTracker.deps.json
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\bin\Debug\netcoreapp2.2\RoomTracker.runtimeconfig.json
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\bin\Debug\netcoreapp2.2\RoomTracker.runtimeconfig.dev.json
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\bin\Debug\netcoreapp2.2\RoomTracker.dll
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.csprojAssemblyReference.cache
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.csproj.CoreCompileInputs.cache
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.RazorAssemblyInfo.cache
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.RazorAssemblyInfo.cs
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.AssemblyInfoInputs.cache
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.AssemblyInfo.cs
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.RazorTargetAssemblyInfo.cache
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\bin\Debug\netcoreapp2.2\RoomTracker.pdb
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.dll
+C:\Users\nickk\source\repos\RoomTracker\RoomTracker\obj\Debug\netcoreapp2.2\RoomTracker.pdb
